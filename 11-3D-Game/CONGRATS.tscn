@@ -1,0 +1,12 @@
+[gd_scene format=2]
+
+[node name="CONGRATS" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+margin_right = 1022.0
+margin_bottom = 600.0
+text = "YOU WON!!!
+
+CONGRATULATIONS!!!"
